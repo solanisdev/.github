@@ -4,6 +4,6 @@
 - Micro-service
 - IA
 
-[<kbd> <br> Get Started on Solanis ➜ <br> </kbd>](https://solanis.com) [<kbd> <br> Self-Host ➜ <br> </kbd>](https://docs.solanis.com/documentation/getting-started)
+[<kbd> <br> Get Started on Solanis ➜ <br> </kbd>](https://solanis.com) [<kbd> <br> Docs ➜ <br> </kbd>](https://docs.solanis.com/documentation/getting-started)
 
 <sub>[Website](https://solanis.com) &nbsp; • &nbsp; [Documentation](https://docs.solanis.com) &nbsp; • &nbsp; [GitHub](https://github.com/solanisdev)</sub>
